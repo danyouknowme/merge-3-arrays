@@ -22,6 +22,7 @@
 	"homepage": "https://github.com/danyouknowme/primo-pre-test#readme",
 	"devDependencies": {
 		"ts-node": "^10.9.2",
-		"typescript": "^5.4.5"
+		"typescript": "^5.4.5",
+		"vitest": "^1.6.0"
 	}
 }
