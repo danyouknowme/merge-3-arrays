@@ -1,0 +1,26 @@
+{
+	"name": "primo-pre-test",
+	"version": "1.0.0",
+	"description": "PRIMO Pre-Test for Full-stack developer",
+	"main": "index.js",
+	"scripts": {
+		"start": "node dist/index.js",
+		"dev": "ts-node src/index.ts",
+		"build": "tsc",
+		"test": "vitest run"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/danyouknowme/primo-pre-test.git"
+	},
+	"author": "Thanathip Suwannakhot",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/danyouknowme/primo-pre-test/issues"
+	},
+	"homepage": "https://github.com/danyouknowme/primo-pre-test#readme",
+	"devDependencies": {
+		"ts-node": "^10.9.2",
+		"typescript": "^5.4.5"
+	}
+}
