@@ -15,7 +15,7 @@ Utility function to merge 3 arrays into a single array by ascending order.
 1.  Clone the repository.
 
     ```bash
-    git clone git@github.com:danyouknowme/merge-3-arrays.git
+    git clone git@github.com:danyouknowme/merge-3-arrays.git && cd merge-3-arrays
     ```
 
 2.  Install the dependencies.
@@ -30,7 +30,7 @@ Utility function to merge 3 arrays into a single array by ascending order.
     npm run test
     ```
 
-4.  Build
+4.  Build project
     ```bash
     npm run build
     ```
