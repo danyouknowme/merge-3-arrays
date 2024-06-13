@@ -29,8 +29,3 @@ Utility function to merge 3 arrays into a single array by ascending order.
     ```bash
     npm run test
     ```
-
-4.  Build project
-    ```bash
-    npm run build
-    ```
